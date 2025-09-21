@@ -36,5 +36,5 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL)  
+ 
 [![GitHub Badge](https://img.shields.io/badge/-YourGitHub-black?style=flat-square&logo=github&logoColor=white&link=YOUR_GITHUB_URL)](YOUR_GITHUB_URL)
