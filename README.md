@@ -36,5 +36,5 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
- 
-[![GitHub Badge](https://img.shields.io/badge/-YourGitHub-black?style=flat-square&logo=github&logoColor=white&link=YOUR_GITHUB_URL)](YOUR_GITHUB_URL)
+[![GitHub Badge](https://img.shields.io/badge/-YourGitHub-black?style=flat-square&logo=github&logoColor=white&link=YOUR_GITHUB_URL)](YOUR_GITHUB_URL)  
+[![Gmail Badge](https://img.shields.io/badge/-tahayacineboudiri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tahayacineboudiri@gmail.com)](mailto:tahayacineboudiri@gmail.com)
